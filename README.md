@@ -6,4 +6,5 @@ The objective of this assignment is to explore public APIs, understand RESTful A
 
 ## Submissions
 
-1. [Submit a document detailing your analysis of the three selected public APIs and the RESTful best practices observed.](./01-research/README.md)
+1. [Research on three public API's](./01-research/README.md)
+2. [API Design](./02-api-design/README.md)
